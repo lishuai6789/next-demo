@@ -74,7 +74,7 @@ const Child = () => {
     setQQ((prev) => prev + 1);
   };
   useEffect(() => {
-    
+    console.log("WWFR#R@$@#$#@");
   }, []);
   return (
     <div>
